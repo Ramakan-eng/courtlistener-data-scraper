@@ -1,0 +1,1372 @@
+[
+  {
+    "absolute_url": "/opinion/10692198/tulsi-sawlani-md-v-lake-county-assessor/",
+    "attorney": "",
+    "caseName": "Tulsi Sawlani, M.D. v. Lake County Assessor",
+    "caseNameFull": "",
+    "citation": [],
+    "citeCount": 0,
+    "cluster_id": 10692198,
+    "court": "Indiana Supreme Court",
+    "court_citation_string": "Ind.",
+    "court_id": "ind",
+    "court_jurisdiction": null,
+    "dateArgued": null,
+    "dateFiled": "2025-10-07",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "25S-TA-00269",
+    "docket_id": 71576059,
+    "judge": "Rush, Massa, Slaughter, Goff, Molter",
+    "lexisCite": "",
+    "meta": {
+      "timestamp": "2025-10-07T22:06:41.611633Z",
+      "date_created": "2025-10-07T22:06:41.396107Z",
+      "score": {
+        "bm25": 0.9988664
+      }
+    },
+    "neutralCite": "",
+    "non_participating_judge_ids": [],
+    "opinions": [
+      {
+        "author_id": null,
+        "cites": [
+          2397911,
+          2788686,
+          3192933,
+          7077368,
+          7077612,
+          8708322,
+          8906519,
+          9430862,
+          9505363,
+          9505569,
+          9505703,
+          9888823
+        ],
+        "download_url": "https://public.courts.in.gov/Decisions/api/Document/Opinion?Id=xKAsWrPIxr6Ociagpyy1sZurakO5kil4w9FZFw2V-DFawHOX7L3dIc29l6GvaJrX0",
+        "id": 11158786,
+        "joined_by_ids": [],
+        "local_path": "pdf/2025/10/07/tulsi_sawlani_m.d._v._lake_county_assessor.pdf",
+        "meta": {
+          "timestamp": "2025-10-07T22:23:01.948002Z",
+          "date_created": "2025-10-07T22:06:41.473461Z"
+        },
+        "ordering_key": null,
+        "per_curiam": false,
+        "sha1": "2df2427ab53b1e137397a3a6d299cfbb6d67ecf8",
+        "snippet": "                           IN THE\n\n   Indiana Supreme Court\n             Supreme Court Case No. 25S-TA-269\n\n   Tulsi Sawlani, M.D., and Kamini Sawlani,\n                                                                           FILED\n                            Petitioners,\n                                                                       Oct 07 2025, 3:13 pm\n\n                                                                           CLERK\n                               –v–                  ",
+        "type": "combined-opinion"
+      }
+    ],
+    "panel_ids": [
+      4321,
+      4347
+    ],
+    "panel_names": [
+      "Mark S. Massa",
+      "Loretta H. Rush"
+    ],
+    "posture": "",
+    "procedural_history": "",
+    "scdb_id": "",
+    "sibling_ids": [
+      11158786
+    ],
+    "source": "C",
+    "status": "Published",
+    "suitNature": "",
+    "syllabus": ""
+  },
+  {
+    "absolute_url": "/opinion/10692188/people-v-cortez/",
+    "attorney": "",
+    "caseName": "People v. Cortez",
+    "caseNameFull": "",
+    "citation": [],
+    "citeCount": 0,
+    "cluster_id": 10692188,
+    "court": "California Court of Appeal",
+    "court_citation_string": "Cal. Ct. App.",
+    "court_id": "calctapp",
+    "court_jurisdiction": null,
+    "dateArgued": null,
+    "dateFiled": "2025-10-07",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "H052179",
+    "docket_id": 71310275,
+    "judge": "",
+    "lexisCite": "",
+    "meta": {
+      "timestamp": "2025-10-07T22:03:22.911728Z",
+      "date_created": "2025-10-07T22:03:22.703997Z",
+      "score": {
+        "bm25": 0.9988664
+      }
+    },
+    "neutralCite": "",
+    "non_participating_judge_ids": [],
+    "opinions": [
+      {
+        "author_id": null,
+        "cites": [
+          1119859,
+          1433861,
+          2622990,
+          6106332,
+          9546425,
+          9563448,
+          9631606,
+          9792648,
+          9795881,
+          9807191
+        ],
+        "download_url": "https://www.courts.ca.gov/opinions/documents/H052179.PDF",
+        "id": 11158776,
+        "joined_by_ids": [],
+        "local_path": "pdf/2025/10/07/people_v._cortez.pdf",
+        "meta": {
+          "timestamp": "2025-10-07T22:43:50.531626Z",
+          "date_created": "2025-10-07T22:03:22.738443Z"
+        },
+        "ordering_key": null,
+        "per_curiam": false,
+        "sha1": "9a1e578a0a3fa39f7d3d2aa15e8e5e2e612aef0a",
+        "snippet": "Filed 9/10/25; Certified for Publication 10/2/25 (order attached)\n\n\n\n\n               IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA\n\n                                      SIXTH APPELLATE DISTRICT\n\n THE PEOPLE,                                                         H052179\n                                                                    (Santa Cruz County\n          Plaintiff and Respondent,                                  Super. Ct. No. 19CR06615)\n\n          v.\n\n JASON JOEL CORTEZ,\n\n     ",
+        "type": "combined-opinion"
+      }
+    ],
+    "panel_ids": [],
+    "panel_names": [],
+    "posture": "",
+    "procedural_history": "",
+    "scdb_id": "",
+    "sibling_ids": [
+      11158776
+    ],
+    "source": "C",
+    "status": "Published",
+    "suitNature": "",
+    "syllabus": ""
+  },
+  {
+    "absolute_url": "/opinion/10692187/state-of-tennessee-v-marvin-m-green/",
+    "attorney": "",
+    "caseName": "State of Tennessee v. Marvin M. Green",
+    "caseNameFull": "",
+    "citation": [],
+    "citeCount": 0,
+    "cluster_id": 10692187,
+    "court": "Court of Criminal Appeals of Tennessee",
+    "court_citation_string": "Tenn. Crim. App.",
+    "court_id": "tenncrimapp",
+    "court_jurisdiction": null,
+    "dateArgued": null,
+    "dateFiled": "2025-10-07",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "E2025-01516-CCA-R10-CD",
+    "docket_id": 71575319,
+    "judge": "",
+    "lexisCite": "",
+    "meta": {
+      "timestamp": "2025-10-07T21:14:35.315957Z",
+      "date_created": "2025-10-07T21:14:34.879518Z",
+      "score": {
+        "bm25": 0.9988664
+      }
+    },
+    "neutralCite": "",
+    "non_participating_judge_ids": [],
+    "opinions": [],
+    "panel_ids": [],
+    "panel_names": [],
+    "posture": "",
+    "procedural_history": "",
+    "scdb_id": "",
+    "sibling_ids": [
+      11158775
+    ],
+    "source": "C",
+    "status": "Published",
+    "suitNature": "",
+    "syllabus": ""
+  },
+  {
+    "absolute_url": "/opinion/10692186/state-of-tennessee-v-nicholas-s-collins/",
+    "attorney": "",
+    "caseName": "State of Tennessee v. Nicholas S. Collins",
+    "caseNameFull": "",
+    "citation": [],
+    "citeCount": 0,
+    "cluster_id": 10692186,
+    "court": "Court of Criminal Appeals of Tennessee",
+    "court_citation_string": "Tenn. Crim. App.",
+    "court_id": "tenncrimapp",
+    "court_jurisdiction": null,
+    "dateArgued": null,
+    "dateFiled": "2025-10-07",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "E2024-00836-CCA-R3-CD",
+    "docket_id": 71575318,
+    "judge": "Judge Jill Bartee Ayers",
+    "lexisCite": "",
+    "meta": {
+      "timestamp": "2025-10-07T21:14:33.849102Z",
+      "date_created": "2025-10-07T21:14:33.363875Z",
+      "score": {
+        "bm25": 0.9988664
+      }
+    },
+    "neutralCite": "",
+    "non_participating_judge_ids": [],
+    "opinions": [
+      {
+        "author_id": null,
+        "cites": [
+          1043928,
+          1057558,
+          1057682,
+          1733713,
+          1743633,
+          1870305,
+          2679601,
+          4098980,
+          4158229,
+          9427680,
+          9523214,
+          9524420,
+          9807913
+        ],
+        "download_url": "https://www.tncourts.gov/sites/default/files/OpinionsPDFVersion/E2024-00836.pdf",
+        "id": 11158774,
+        "joined_by_ids": [],
+        "local_path": "pdf/2025/10/07/state_of_tennessee_v._nicholas_s._collins.pdf",
+        "meta": {
+          "timestamp": "2025-10-07T21:42:07.032590Z",
+          "date_created": "2025-10-07T21:14:33.410000Z"
+        },
+        "ordering_key": null,
+        "per_curiam": false,
+        "sha1": "0478bc1fe8e809211ab2a309fbdf2b974882df2d",
+        "snippet": "                                                                                         10/07/2025\n        IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE\n                         AT KNOXVILLE\n                              September 23, 2025 Session\n\n             STATE OF TENNESSEE v. NICHOLAS S. COLLINS\n\n                Appeal from the Criminal Court for Sullivan County\n                    No. S75901 James F. Goodwin, Jr., Judge\n                     ___________________________________\n\n         ",
+        "type": "lead-opinion"
+      }
+    ],
+    "panel_ids": [],
+    "panel_names": [],
+    "posture": "",
+    "procedural_history": "",
+    "scdb_id": "",
+    "sibling_ids": [
+      11158774
+    ],
+    "source": "C",
+    "status": "Published",
+    "suitNature": "",
+    "syllabus": "Defendant, Nicholas S. Collins, was convicted by a Sullivan County jury of the following offenses: domestic assault, a Class A misdemeanor (count 2); assault, a Class A misdemeanor (count 3); and aggravated domestic assault, a Class C felony (count 5). He received an effective sentence of seven and one-half years' incarceration. Defendant appeals, arguing that the evidence was insufficient to support his convictions. Upon review of the entire record, the briefs and arguments of the parties, and the applicable law, we affirm the judgments of the trial court."
+  },
+  {
+    "absolute_url": "/opinion/10692185/state-v-mcneil/",
+    "attorney": "",
+    "caseName": "State v. McNeil",
+    "caseNameFull": "",
+    "citation": [],
+    "citeCount": 0,
+    "cluster_id": 10692185,
+    "court": "Superior Court of Delaware",
+    "court_citation_string": "Del. Super. Ct.",
+    "court_id": "delsuperct",
+    "court_jurisdiction": null,
+    "dateArgued": null,
+    "dateFiled": "2025-10-07",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "1501016141",
+    "docket_id": 71575286,
+    "judge": "Scott J.",
+    "lexisCite": "",
+    "meta": {
+      "timestamp": "2025-10-07T21:07:11.981491Z",
+      "date_created": "2025-10-07T21:07:11.790340Z",
+      "score": {
+        "bm25": 0.9988664
+      }
+    },
+    "neutralCite": "",
+    "non_participating_judge_ids": [],
+    "opinions": [
+      {
+        "author_id": null,
+        "cites": [
+          9433986,
+          11066653
+        ],
+        "download_url": "http://courts.delaware.gov/Opinions/Download.aspx?id=385680",
+        "id": 11158773,
+        "joined_by_ids": [],
+        "local_path": "pdf/2025/10/07/state_v._mcneil.pdf",
+        "meta": {
+          "timestamp": "2025-10-07T21:38:33.023666Z",
+          "date_created": "2025-10-07T21:07:11.834532Z"
+        },
+        "ordering_key": null,
+        "per_curiam": false,
+        "sha1": "e3d1b708af2c39336887a6bf059f534441b16fa2",
+        "snippet": "        IN THE SUPERIOR COURT OF THE STATE OF DELAWARE\n\nSTATE OF DELAWARE,                          )\n                                            )\n               v.                           )\n                                            )\nRHISHAWN MCNEIL,                            )\n                                            )     ID No. 1501016141\n        Defendant.                          )\n                                            )\n                                            )\n\n       ",
+        "type": "combined-opinion"
+      }
+    ],
+    "panel_ids": [],
+    "panel_names": [],
+    "posture": "",
+    "procedural_history": "",
+    "scdb_id": "",
+    "sibling_ids": [
+      11158773
+    ],
+    "source": "C",
+    "status": "Published",
+    "suitNature": "",
+    "syllabus": ""
+  },
+  {
+    "absolute_url": "/opinion/10692179/united-states-v-jaison-coleman/",
+    "attorney": "",
+    "caseName": "United States v. Jaison Coleman",
+    "caseNameFull": "",
+    "citation": [],
+    "citeCount": 0,
+    "cluster_id": 10692179,
+    "court": "Court of Appeals for the Seventh Circuit",
+    "court_citation_string": "7th Cir.",
+    "court_id": "ca7",
+    "court_jurisdiction": null,
+    "dateArgued": "2025-09-09",
+    "dateFiled": "2025-10-07",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "24-3051",
+    "docket_id": 71303276,
+    "judge": "Scudder",
+    "lexisCite": "",
+    "meta": {
+      "timestamp": "2025-10-07T21:01:46.816900Z",
+      "date_created": "2025-10-07T21:01:46.685630Z",
+      "score": {
+        "bm25": 0.9988664
+      }
+    },
+    "neutralCite": "",
+    "non_participating_judge_ids": [],
+    "opinions": [
+      {
+        "author_id": 8633,
+        "cites": [],
+        "download_url": "https://media.ca7.uscourts.gov/cgi-bin/OpinionsWeb/processWebInputExternal.pl?Submit=Display&Path=Y2025/D10-07/C:24-3051:J:Scudder:aut:T:fnOp:N:3435370:S:0",
+        "id": 11158767,
+        "joined_by_ids": [],
+        "local_path": "pdf/2025/10/07/united_states_v._jaison_coleman.pdf",
+        "meta": {
+          "timestamp": "2025-10-07T21:01:46.841633Z",
+          "date_created": "2025-10-07T21:01:46.721995Z"
+        },
+        "ordering_key": null,
+        "per_curiam": false,
+        "sha1": "2c4f97bcc47a4009f92a1b01b74e54c45d17c34c",
+        "snippet": "",
+        "type": "combined-opinion"
+      }
+    ],
+    "panel_ids": [],
+    "panel_names": [],
+    "posture": "",
+    "procedural_history": "",
+    "scdb_id": "",
+    "sibling_ids": [
+      11158767
+    ],
+    "source": "C",
+    "status": "Published",
+    "suitNature": "",
+    "syllabus": ""
+  },
+  {
+    "absolute_url": "/opinion/10692172/state-of-tennessee-v-zachary-thomas-hays/",
+    "attorney": "",
+    "caseName": "State of Tennessee v. Zachary Thomas Hays",
+    "caseNameFull": "",
+    "citation": [],
+    "citeCount": 0,
+    "cluster_id": 10692172,
+    "court": "Court of Criminal Appeals of Tennessee",
+    "court_citation_string": "Tenn. Crim. App.",
+    "court_id": "tenncrimapp",
+    "court_jurisdiction": null,
+    "dateArgued": null,
+    "dateFiled": "2025-10-07",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "E2025-01324-CCA-R9-CD",
+    "docket_id": 71574643,
+    "judge": "",
+    "lexisCite": "",
+    "meta": {
+      "timestamp": "2025-10-07T20:14:20.531359Z",
+      "date_created": "2025-10-07T20:13:59.638638Z",
+      "score": {
+        "bm25": 0.9988664
+      }
+    },
+    "neutralCite": "",
+    "non_participating_judge_ids": [],
+    "opinions": [],
+    "panel_ids": [],
+    "panel_names": [],
+    "posture": "",
+    "procedural_history": "",
+    "scdb_id": "",
+    "sibling_ids": [
+      11158760
+    ],
+    "source": "C",
+    "status": "Published",
+    "suitNature": "",
+    "syllabus": ""
+  },
+  {
+    "absolute_url": "/opinion/10692171/in-re-zariah-h1/",
+    "attorney": "",
+    "caseName": "IN RE ZARIAH H.1",
+    "caseNameFull": "",
+    "citation": [],
+    "citeCount": 0,
+    "cluster_id": 10692171,
+    "court": "Court of Appeals of Tennessee",
+    "court_citation_string": "Tenn. Ct. App.",
+    "court_id": "tennctapp",
+    "court_jurisdiction": null,
+    "dateArgued": null,
+    "dateFiled": "2025-10-07",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "E2024-00661-COA-R3-PT",
+    "docket_id": 71574642,
+    "judge": "Judge Kristi M. Davis",
+    "lexisCite": "",
+    "meta": {
+      "timestamp": "2025-10-07T20:13:28.287049Z",
+      "date_created": "2025-10-07T20:13:27.774564Z",
+      "score": {
+        "bm25": 0.9988664
+      }
+    },
+    "neutralCite": "",
+    "non_participating_judge_ids": [],
+    "opinions": [],
+    "panel_ids": [],
+    "panel_names": [],
+    "posture": "",
+    "procedural_history": "",
+    "scdb_id": "",
+    "sibling_ids": [
+      11158759
+    ],
+    "source": "C",
+    "status": "Published",
+    "suitNature": "",
+    "syllabus": "A father appeals the termination of his parental rights to one minor child. Discerning no error, we affirm"
+  },
+  {
+    "absolute_url": "/opinion/10692167/johnson-v-williams/",
+    "attorney": "",
+    "caseName": "Johnson v. Williams",
+    "caseNameFull": "",
+    "citation": [],
+    "citeCount": 0,
+    "cluster_id": 10692167,
+    "court": "Superior Court of Delaware",
+    "court_citation_string": "Del. Super. Ct.",
+    "court_id": "delsuperct",
+    "court_jurisdiction": null,
+    "dateArgued": null,
+    "dateFiled": "2025-10-07",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "N24C-08-088 CEB",
+    "docket_id": 71574512,
+    "judge": "Butler R.J.",
+    "lexisCite": "",
+    "meta": {
+      "timestamp": "2025-10-07T20:06:24.939398Z",
+      "date_created": "2025-10-07T20:06:24.796339Z",
+      "score": {
+        "bm25": 0.9988664
+      }
+    },
+    "neutralCite": "",
+    "non_participating_judge_ids": [],
+    "opinions": [
+      {
+        "author_id": null,
+        "cites": [],
+        "download_url": "http://courts.delaware.gov/Opinions/Download.aspx?id=385670",
+        "id": 11158755,
+        "joined_by_ids": [],
+        "local_path": "pdf/2025/10/07/johnson_v._williams.pdf",
+        "meta": {
+          "timestamp": "2025-10-08T02:06:29.751110Z",
+          "date_created": "2025-10-07T20:06:24.806907Z"
+        },
+        "ordering_key": null,
+        "per_curiam": false,
+        "sha1": "15cd42b18e6c222cb88d8b9695fe0a538a8570b1",
+        "snippet": "      IN THE SUPERIOR COURT FOR THE STATE OF DELAWARE\n\n\n MELISSA D. JOHNSON,                       )\n                                           )\n                                           )\n                 Plaintiff,                )\n                                           )    C.A. No. N24C-08-088 CEB\n    v.                                     )\n                                           )\n LYNDA WILLIAMS,                           )\n                                           )\n           ",
+        "type": "combined-opinion"
+      }
+    ],
+    "panel_ids": [],
+    "panel_names": [],
+    "posture": "",
+    "procedural_history": "",
+    "scdb_id": "",
+    "sibling_ids": [
+      11158755
+    ],
+    "source": "C",
+    "status": "Published",
+    "suitNature": "",
+    "syllabus": ""
+  },
+  {
+    "absolute_url": "/opinion/10692166/ventura-v-circle-internet-financial-llc/",
+    "attorney": "",
+    "caseName": "Ventura v. Circle Internet Financial, LLC",
+    "caseNameFull": "",
+    "citation": [],
+    "citeCount": 0,
+    "cluster_id": 10692166,
+    "court": "Superior Court of Delaware",
+    "court_citation_string": "Del. Super. Ct.",
+    "court_id": "delsuperct",
+    "court_jurisdiction": null,
+    "dateArgued": null,
+    "dateFiled": "2025-10-07",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "N25C-01-109 CLS",
+    "docket_id": 71139117,
+    "judge": "Scott J.",
+    "lexisCite": "",
+    "meta": {
+      "timestamp": "2025-10-07T20:06:23.798730Z",
+      "date_created": "2025-10-07T20:06:23.676900Z",
+      "score": {
+        "bm25": 0.9988664
+      }
+    },
+    "neutralCite": "",
+    "non_participating_judge_ids": [],
+    "opinions": [
+      {
+        "author_id": null,
+        "cites": [],
+        "download_url": "http://courts.delaware.gov/Opinions/Download.aspx?id=385660",
+        "id": 11158754,
+        "joined_by_ids": [],
+        "local_path": "pdf/2025/10/07/ventura_v._circle_internet_financial_llc.pdf",
+        "meta": {
+          "timestamp": "2025-10-08T02:06:31.302053Z",
+          "date_created": "2025-10-07T20:06:23.696717Z"
+        },
+        "ordering_key": null,
+        "per_curiam": false,
+        "sha1": "e81ab35c81b0d970792fb2faa7957dcfd28e32ff",
+        "snippet": "        IN THE SUPERIOR COURT OF THE STATE OF DELAWARE\n\n    OFIR VENTURA,                               )\n                                                )\n        Plaintiff,                              )\n                                                )\n               v.                               )\n                                                )       C.A. No. N25C-01-109 CLS\n    CIRCLE INTERNET FINANCIAL,                  )\n    LLC,                                        )\n             ",
+        "type": "combined-opinion"
+      }
+    ],
+    "panel_ids": [],
+    "panel_names": [],
+    "posture": "",
+    "procedural_history": "",
+    "scdb_id": "",
+    "sibling_ids": [
+      11158754
+    ],
+    "source": "C",
+    "status": "Published",
+    "suitNature": "",
+    "syllabus": ""
+  },
+  {
+    "absolute_url": "/opinion/10692161/knight-v-united-medical-center/",
+    "attorney": "",
+    "caseName": "Knight v. United Medical Center",
+    "caseNameFull": "",
+    "citation": [],
+    "citeCount": 0,
+    "cluster_id": 10692161,
+    "court": "District Court, District of Columbia",
+    "court_citation_string": "D.D.C.",
+    "court_id": "dcd",
+    "court_jurisdiction": null,
+    "dateArgued": null,
+    "dateFiled": "2025-10-07",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "Civil Action No. 2025-2726",
+    "docket_id": 71574451,
+    "judge": "Judge Carl J. Nichols",
+    "lexisCite": "",
+    "meta": {
+      "timestamp": "2025-10-07T20:02:15.929702Z",
+      "date_created": "2025-10-07T20:02:15.777140Z",
+      "score": {
+        "bm25": 0.9988664
+      }
+    },
+    "neutralCite": "",
+    "non_participating_judge_ids": [],
+    "opinions": [
+      {
+        "author_id": 8611,
+        "cites": [],
+        "download_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2025cv2726-10",
+        "id": 11158749,
+        "joined_by_ids": [],
+        "local_path": "pdf/2025/10/07/knight_v._united_medical_center.pdf",
+        "meta": {
+          "timestamp": "2025-10-07T20:48:57.277405Z",
+          "date_created": "2025-10-07T20:02:15.846935Z"
+        },
+        "ordering_key": null,
+        "per_curiam": false,
+        "sha1": "f981369282e3a33a31463e99f957239fc64ecb88",
+        "snippet": "                             UNITED STATES DISTRICT COURT\n                             FOR THE DISTRICT OF COLUMBIA\n\n\n\nMARVIN KNIGHT,\n\n               Plaintiff,\n\n       v.                                               Civil Action No. 1:25-cv-02726 (UNA)\n\nUNITED MEDICAL CENTER, et al.,\n\n               Defendants.\n\n\n\n                                   MEMORANDUM OPINION\n\n        Plaintiff, appearing pro se, has filed a complaint and an application to proceed in forma\n\npauperis (IFP). For the foll",
+        "type": "combined-opinion"
+      }
+    ],
+    "panel_ids": [],
+    "panel_names": [],
+    "posture": "",
+    "procedural_history": "",
+    "scdb_id": "",
+    "sibling_ids": [
+      11158749
+    ],
+    "source": "C",
+    "status": "Published",
+    "suitNature": "",
+    "syllabus": ""
+  },
+  {
+    "absolute_url": "/opinion/10692160/united-states-v-wallyst-ulloa/",
+    "attorney": "",
+    "caseName": "United States v. Wallyst Ulloa",
+    "caseNameFull": "",
+    "citation": [],
+    "citeCount": 0,
+    "cluster_id": 10692160,
+    "court": "Court of Appeals for the Eleventh Circuit",
+    "court_citation_string": "11th Cir.",
+    "court_id": "ca11",
+    "court_jurisdiction": null,
+    "dateArgued": null,
+    "dateFiled": "2025-10-07",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "23-10347",
+    "docket_id": 71574214,
+    "judge": "",
+    "lexisCite": "",
+    "meta": {
+      "timestamp": "2025-10-07T20:01:45.279384Z",
+      "date_created": "2025-10-07T20:01:45.176330Z",
+      "score": {
+        "bm25": 0.9988664
+      }
+    },
+    "neutralCite": "",
+    "non_participating_judge_ids": [],
+    "opinions": [
+      {
+        "author_id": null,
+        "cites": [
+          76395,
+          78044,
+          396175,
+          2654061,
+          4190692
+        ],
+        "download_url": "http://media.ca11.uscourts.gov/opinions/unpub/files/202310311.pdf",
+        "id": 11158748,
+        "joined_by_ids": [],
+        "local_path": "pdf/2025/10/07/united_states_v._wallyst_ulloa.pdf",
+        "meta": {
+          "timestamp": "2025-10-08T02:01:52.508517Z",
+          "date_created": "2025-10-07T20:01:45.179765Z"
+        },
+        "ordering_key": null,
+        "per_curiam": false,
+        "sha1": "3328fa5f6160076c600b4d84658aac16b9a6feb4",
+        "snippet": "USCA11 Case: 23-10311   Document: 30-1        Date Filed: 10/07/2025      Page: 1 of 7\n\n\n\n\n                         NOT FOR PUBLICATION\n\n\n                                    In the\n                United States Court of Appeals\n                        For the Eleventh Circuit\n                          ____________________\n                                 No. 23-10311\n                            Non-Argument Calendar\n                          ____________________\n\n       UNITED STATES OF AMERICA,",
+        "type": "combined-opinion"
+      }
+    ],
+    "panel_ids": [],
+    "panel_names": [],
+    "posture": "",
+    "procedural_history": "",
+    "scdb_id": "",
+    "sibling_ids": [
+      11158748
+    ],
+    "source": "C",
+    "status": "Published",
+    "suitNature": "CON",
+    "syllabus": ""
+  },
+  {
+    "absolute_url": "/opinion/10692159/amy-hadley-v-city-of-south-bend-indiana/",
+    "attorney": "",
+    "caseName": "Amy Hadley v. City of South Bend, Indiana",
+    "caseNameFull": "",
+    "citation": [],
+    "citeCount": 0,
+    "cluster_id": 10692159,
+    "court": "Court of Appeals for the Seventh Circuit",
+    "court_citation_string": "7th Cir.",
+    "court_id": "ca7",
+    "court_jurisdiction": null,
+    "dateArgued": "2025-02-26",
+    "dateFiled": "2025-10-07",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "24-2448",
+    "docket_id": 69176072,
+    "judge": "Kolar",
+    "lexisCite": "",
+    "meta": {
+      "timestamp": "2025-10-07T20:01:34.037935Z",
+      "date_created": "2025-10-07T20:01:33.808283Z",
+      "score": {
+        "bm25": 0.9988664
+      }
+    },
+    "neutralCite": "",
+    "non_participating_judge_ids": [],
+    "opinions": [
+      {
+        "author_id": null,
+        "cites": [
+          105709,
+          131146,
+          206457,
+          209931,
+          211127,
+          613743,
+          794178,
+          813020,
+          6655941,
+          8415273,
+          9417468,
+          9418495,
+          9419563,
+          9419895,
+          9420450,
+          9427319,
+          9431666,
+          9432511,
+          9432685,
+          9433258,
+          9435936,
+          9846524
+        ],
+        "download_url": "https://media.ca7.uscourts.gov/cgi-bin/OpinionsWeb/processWebInputExternal.pl?Submit=Display&Path=Y2025/D10-07/C:24-2448:J:Kolar:aut:T:fnOp:N:3435317:S:0",
+        "id": 11158747,
+        "joined_by_ids": [],
+        "local_path": "pdf/2025/10/07/amy_hadley_v._city_of_south_bend_indiana.pdf",
+        "meta": {
+          "timestamp": "2025-10-07T20:06:59.810533Z",
+          "date_created": "2025-10-07T20:01:33.870108Z"
+        },
+        "ordering_key": null,
+        "per_curiam": false,
+        "sha1": "b4fbacc259e387c9e9ebeda8e703fb84386cad61",
+        "snippet": "                               In the\n\n    United States Court of Appeals\n                 For the Seventh Circuit\n                     ____________________\nNo. 24-2448\nAMY HADLEY,\n                                                  Plaintiff-Appellant,\n                                 v.\n\nCITY OF SOUTH BEND, INDIANA, et al.,\n                                               Defendants-Appellees.\n                     ____________________\n\n         Appeal from the United States District Court for the\n",
+        "type": "combined-opinion"
+      }
+    ],
+    "panel_ids": [],
+    "panel_names": [],
+    "posture": "",
+    "procedural_history": "",
+    "scdb_id": "",
+    "sibling_ids": [
+      11158747
+    ],
+    "source": "C",
+    "status": "Published",
+    "suitNature": "",
+    "syllabus": ""
+  },
+  {
+    "absolute_url": "/opinion/10692158/laila-rumsey-v-regions-morgan-keegan-trust/",
+    "attorney": "",
+    "caseName": "Laila Rumsey v. Regions Morgan Keegan Trust",
+    "caseNameFull": "",
+    "citation": [],
+    "citeCount": 0,
+    "cluster_id": 10692158,
+    "court": "Court of Appeals of Tennessee",
+    "court_citation_string": "Tenn. Ct. App.",
+    "court_id": "tennctapp",
+    "court_jurisdiction": null,
+    "dateArgued": null,
+    "dateFiled": "2025-10-07",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "M2024-00913-COA-R3-CV",
+    "docket_id": 71573920,
+    "judge": "Chief Judge D. Michael Swiney",
+    "lexisCite": "",
+    "meta": {
+      "timestamp": "2025-10-07T19:15:50.413079Z",
+      "date_created": "2025-10-07T19:15:49.902302Z",
+      "score": {
+        "bm25": 0.9988664
+      }
+    },
+    "neutralCite": "",
+    "non_participating_judge_ids": [],
+    "opinions": [
+      {
+        "author_id": 8281,
+        "cites": [
+          1058609,
+          1058928,
+          1624410,
+          1632208,
+          1640488,
+          1796007,
+          5088484
+        ],
+        "download_url": "https://www.tncourts.gov/sites/default/files/OpinionsPDFVersion/Majority%20Opinion%20-%20M2024-00913-COA-R3-CV.pdf",
+        "id": 11158746,
+        "joined_by_ids": [],
+        "local_path": "pdf/2025/10/07/laila_rumsey_v._regions_morgan_keegan_trust.pdf",
+        "meta": {
+          "timestamp": "2025-10-07T19:33:26.352549Z",
+          "date_created": "2025-10-07T19:15:49.930522Z"
+        },
+        "ordering_key": null,
+        "per_curiam": false,
+        "sha1": "dc7983cc809730b92b498335e7f116743320083d",
+        "snippet": "                                                                                                     10/07/2025\n                 IN THE COURT OF APPEALS OF TENNESSEE\n                             AT NASHVILLE\n                             Assigned on Briefs August 4, 2025\n\n     LAILA RUMSEY v. REGIONS MORGAN KEEGAN TRUST, ET AL.\n\n                  Appeal from the Chancery Court for Davidson County\n                     No. 23-1004-II   Anne C. Martin, Chancellor\n\n\n                                No",
+        "type": "lead-opinion"
+      }
+    ],
+    "panel_ids": [],
+    "panel_names": [],
+    "posture": "",
+    "procedural_history": "",
+    "scdb_id": "",
+    "sibling_ids": [
+      11158746
+    ],
+    "source": "C",
+    "status": "Published",
+    "suitNature": "",
+    "syllabus": "This case originates in a dispute over the administration of two trusts created for Joseph Peter Meersman, Jr. (\"Meersman\"). Meersman has filed multiple lawsuits against former trustees Michael Castellarin (\"Castellarin\") and Regions Bank (\"Regions\") (\"Defendants,\" collectively) alleging that they mismanaged the trusts. The trusts were terminated by court order in 2015. Laila Rumsey (\"Rumsey\"), Meersman's partner, sued Defendants in the Chancery Court for Davidson County (\"the Trial Court\") alleging that she too was damaged by Defendants' actions. Defendants filed motions to dismiss, which the Trial Court granted based on the statute of limitations. Rumsey filed a motion to alter or amend within thirty days of entry of judgment but, contrary to Tennessee Rule of Civil Procedure 59.04, did not serve Defendants within thirty days. The Trial Court denied Rumsey's motion as untimely. Rumsey appeals. Rule 59.04 requires such a motion be both \"filed and served\" within thirty days of entry of judgment. Rumsey failed to serve Defendants timely. Therefore, Rumsey's motion to alter or amend was untimely and did not toll the time in which to file a notice of appeal. We dismiss for lack of jurisdiction."
+  },
+  {
+    "absolute_url": "/opinion/10692152/rosenblum-v-treitler/",
+    "attorney": "",
+    "caseName": "Rosenblum v. Treitler",
+    "caseNameFull": "",
+    "citation": [
+      "2025 NY Slip Op 05481"
+    ],
+    "citeCount": 0,
+    "cluster_id": 10692152,
+    "court": "Appellate Division of the Supreme Court of the State of New York",
+    "court_citation_string": "N.Y. App. Div.",
+    "court_id": "nyappdiv",
+    "court_jurisdiction": null,
+    "dateArgued": null,
+    "dateFiled": "2025-10-07",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "",
+    "docket_id": 71573884,
+    "judge": "",
+    "lexisCite": "",
+    "meta": {
+      "timestamp": "2025-10-07T19:12:28.311383Z",
+      "date_created": "2025-10-07T19:12:19.204943Z",
+      "score": {
+        "bm25": 0.9988664
+      }
+    },
+    "neutralCite": "",
+    "non_participating_judge_ids": [],
+    "opinions": [
+      {
+        "author_id": null,
+        "cites": [
+          2093064,
+          4169213,
+          4228889,
+          5773490,
+          5852946,
+          5874179,
+          5890746,
+          6061976,
+          6075913
+        ],
+        "download_url": "http://www.nycourts.gov/reporter/3dseries/2025/2025_05481.htm",
+        "id": 11158740,
+        "joined_by_ids": [],
+        "local_path": "txt/2025/10/07/rosenblum_v._treitler_1.txt",
+        "meta": {
+          "timestamp": "2025-10-07T19:14:38.190208Z",
+          "date_created": "2025-10-07T19:12:19.250284Z"
+        },
+        "ordering_key": null,
+        "per_curiam": false,
+        "sha1": "d1651e761a747fffb2476373715d3cc72d23d692",
+        "snippet": "\n\nRosenblum v Treitler (2025 NY Slip Op 05481)\n\n\n\n\n\nRosenblum v Treitler\n\n\n2025 NY Slip Op 05481\n\n\nDecided on October 07, 2025\n\n\nAppellate Division, First Department\n\n\n\nPublished by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.\n\n\nThis opinion is uncorre",
+        "type": "combined-opinion"
+      }
+    ],
+    "panel_ids": [],
+    "panel_names": [],
+    "posture": "",
+    "procedural_history": "",
+    "scdb_id": "",
+    "sibling_ids": [
+      11158621,
+      11158740
+    ],
+    "source": "C",
+    "status": "Published",
+    "suitNature": "",
+    "syllabus": ""
+  },
+  {
+    "absolute_url": "/opinion/10692141/people-v-melgoza/",
+    "attorney": "",
+    "caseName": "People v. Melgoza",
+    "caseNameFull": "",
+    "citation": [],
+    "citeCount": 0,
+    "cluster_id": 10692141,
+    "court": "California Court of Appeal",
+    "court_citation_string": "Cal. Ct. App.",
+    "court_id": "calctapp",
+    "court_jurisdiction": null,
+    "dateArgued": null,
+    "dateFiled": "2025-10-07",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "H050387",
+    "docket_id": 71573775,
+    "judge": "",
+    "lexisCite": "",
+    "meta": {
+      "timestamp": "2025-10-07T19:05:53.209466Z",
+      "date_created": "2025-10-07T19:05:46.608849Z",
+      "score": {
+        "bm25": 0.9988664
+      }
+    },
+    "neutralCite": "",
+    "non_participating_judge_ids": [],
+    "opinions": [
+      {
+        "author_id": null,
+        "cites": [
+          844226,
+          854599,
+          1356485,
+          1433861,
+          1433926,
+          1801669,
+          2120546,
+          2132596,
+          2153905,
+          2248277,
+          2547493,
+          2609413,
+          2621193,
+          2625630,
+          2626390,
+          2629957,
+          2675084,
+          3169847,
+          4409582,
+          5112647,
+          5451350,
+          5452207,
+          5452429,
+          5650421,
+          5666522,
+          6105966,
+          6106029,
+          6107302,
+          6107393,
+          9423348,
+          9432240,
+          9433188,
+          9433818,
+          9546425,
+          9558801,
+          9559960,
+          9570635,
+          9574770,
+          9614076,
+          9622811,
+          9631606,
+          9666910,
+          9784009,
+          9799172,
+          9824509
+        ],
+        "download_url": "https://www.courts.ca.gov/opinions/documents/H050387.PDF",
+        "id": 11158729,
+        "joined_by_ids": [],
+        "local_path": "pdf/2025/10/07/people_v._melgoza.pdf",
+        "meta": {
+          "timestamp": "2025-10-07T19:32:14.109776Z",
+          "date_created": "2025-10-07T19:05:46.611438Z"
+        },
+        "ordering_key": null,
+        "per_curiam": false,
+        "sha1": "cfa2430041ce1b30f745aade5196b1206362c4b1",
+        "snippet": "Filed 10/7/25\n                           CERTIFIED FOR PUBLICATION\n\n                IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA\n\n                             SIXTH APPELLATE DISTRICT\n\n THE PEOPLE,                                        H050387\n                                                   (Monterey County\n          Plaintiff and Respondent,                 Super. Ct. No. 21CR008177)\n\n          v.\n\n CARLOS SEPULVEDA MELGOZA,\n\n          Defendant and Appellant.\n\n        A jury convicted",
+        "type": "combined-opinion"
+      }
+    ],
+    "panel_ids": [],
+    "panel_names": [],
+    "posture": "",
+    "procedural_history": "",
+    "scdb_id": "",
+    "sibling_ids": [
+      11158729
+    ],
+    "source": "C",
+    "status": "Published",
+    "suitNature": "",
+    "syllabus": ""
+  },
+  {
+    "absolute_url": "/opinion/10692140/atlanta-falcons-v-workers-compensation-appeals-bd/",
+    "attorney": "",
+    "caseName": "Atlanta Falcons v. Workers' Compensation Appeals Bd.",
+    "caseNameFull": "",
+    "citation": [],
+    "citeCount": 0,
+    "cluster_id": 10692140,
+    "court": "California Court of Appeal",
+    "court_citation_string": "Cal. Ct. App.",
+    "court_id": "calctapp",
+    "court_jurisdiction": null,
+    "dateArgued": null,
+    "dateFiled": "2025-10-07",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "G064622",
+    "docket_id": 71573774,
+    "judge": "",
+    "lexisCite": "",
+    "meta": {
+      "timestamp": "2025-10-07T19:05:47.150805Z",
+      "date_created": "2025-10-07T19:05:43.421632Z",
+      "score": {
+        "bm25": 0.9988664
+      }
+    },
+    "neutralCite": "",
+    "non_participating_judge_ids": [],
+    "opinions": [
+      {
+        "author_id": null,
+        "cites": [
+          1441972,
+          2516402,
+          2780534,
+          6106714,
+          9750198
+        ],
+        "download_url": "https://www.courts.ca.gov/opinions/documents/G064622.PDF",
+        "id": 11158728,
+        "joined_by_ids": [],
+        "local_path": "pdf/2025/10/07/atlanta_falcons_v._workers_compensation_appeals_bd..pdf",
+        "meta": {
+          "timestamp": "2025-10-07T19:47:57.237617Z",
+          "date_created": "2025-10-07T19:05:43.424436Z"
+        },
+        "ordering_key": null,
+        "per_curiam": false,
+        "sha1": "ccdb4eb9e230906441c572e43436b5f59b7a1799",
+        "snippet": "Filed 10/7/25\n\n\n\n\n                        CERTIFIED FOR PUBLICATION\n\n       IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA\n\n                         FOURTH APPELLATE DISTRICT\n\n                                 DIVISION THREE\n\n\n ATLANTA FALCONS et al.,\n\n     Petitioners,\n\n                v.                                G064622\n\n WORKERS’ COMPENSATION                            (WCAB Case No.\n APPEALS BOARD and WAYNE                           ADJ10110126)\n GANDY,\n                              ",
+        "type": "combined-opinion"
+      }
+    ],
+    "panel_ids": [],
+    "panel_names": [],
+    "posture": "",
+    "procedural_history": "",
+    "scdb_id": "",
+    "sibling_ids": [
+      11158728
+    ],
+    "source": "C",
+    "status": "Published",
+    "suitNature": "",
+    "syllabus": ""
+  },
+  {
+    "absolute_url": "/opinion/10692139/state-farm-fire-and-casualty-co-v-diblin/",
+    "attorney": "",
+    "caseName": "State Farm Fire and Casualty Co. v. Diblin",
+    "caseNameFull": "",
+    "citation": [],
+    "citeCount": 0,
+    "cluster_id": 10692139,
+    "court": "California Court of Appeal",
+    "court_citation_string": "Cal. Ct. App.",
+    "court_id": "calctapp",
+    "court_jurisdiction": null,
+    "dateArgued": null,
+    "dateFiled": "2025-10-07",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "D083765",
+    "docket_id": 71573772,
+    "judge": "",
+    "lexisCite": "",
+    "meta": {
+      "timestamp": "2025-10-07T19:05:40.763418Z",
+      "date_created": "2025-10-07T19:05:39.687549Z",
+      "score": {
+        "bm25": 0.9988664
+      }
+    },
+    "neutralCite": "",
+    "non_participating_judge_ids": [],
+    "opinions": [
+      {
+        "author_id": null,
+        "cites": [
+          1042853,
+          2111499,
+          2122767,
+          2195499,
+          2205214,
+          2212617,
+          2249670,
+          2251601,
+          2253685,
+          2256775,
+          2296832,
+          2518073,
+          2570318,
+          2639473,
+          2797001,
+          4280859,
+          5452539,
+          9596126,
+          9633133,
+          9726759,
+          9748982,
+          9782597
+        ],
+        "download_url": "https://www.courts.ca.gov/opinions/documents/D083765.PDF",
+        "id": 11158727,
+        "joined_by_ids": [],
+        "local_path": "pdf/2025/10/07/state_farm_fire_and_casualty_co._v._diblin.pdf",
+        "meta": {
+          "timestamp": "2025-10-07T19:36:30.558384Z",
+          "date_created": "2025-10-07T19:05:39.691988Z"
+        },
+        "ordering_key": null,
+        "per_curiam": false,
+        "sha1": "bf8c9c7ea7f7f415411e53547d8e109f4936659f",
+        "snippet": "Filed 10/7/25\n\n\n                        CERTIFIED FOR PUBLICATION\n\n                COURT OF APPEAL, FOURTH APPELLATE DISTRICT\n\n                               DIVISION ONE\n\n                           STATE OF CALIFORNIA\n\n\n\n STATE FARM FIRE AND CASUALTY              D083765\n COMPANY,\n\n      Plaintiff, Cross-defendant and\n Respondent,                               (Super. Ct. No. 37-2017-\n                                           00044935)\n         v.\n\n CURTIS DIBLIN et al.,\n\n      Defendants, Cro",
+        "type": "combined-opinion"
+      }
+    ],
+    "panel_ids": [],
+    "panel_names": [],
+    "posture": "",
+    "procedural_history": "",
+    "scdb_id": "",
+    "sibling_ids": [
+      11158727
+    ],
+    "source": "C",
+    "status": "Published",
+    "suitNature": "",
+    "syllabus": ""
+  },
+  {
+    "absolute_url": "/opinion/10692138/people-v-gomez/",
+    "attorney": "",
+    "caseName": "People v. Gomez",
+    "caseNameFull": "",
+    "citation": [],
+    "citeCount": 0,
+    "cluster_id": 10692138,
+    "court": "California Court of Appeal",
+    "court_citation_string": "Cal. Ct. App.",
+    "court_id": "calctapp",
+    "court_jurisdiction": null,
+    "dateArgued": null,
+    "dateFiled": "2025-10-07",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "B337826",
+    "docket_id": 71573768,
+    "judge": "",
+    "lexisCite": "",
+    "meta": {
+      "timestamp": "2025-10-07T19:05:23.759646Z",
+      "date_created": "2025-10-07T19:05:22.881042Z",
+      "score": {
+        "bm25": 0.9988664
+      }
+    },
+    "neutralCite": "",
+    "non_participating_judge_ids": [],
+    "opinions": [
+      {
+        "author_id": null,
+        "cites": [
+          3215563,
+          4092656,
+          4291703,
+          6680682,
+          9527671
+        ],
+        "download_url": "https://www.courts.ca.gov/opinions/documents/B337826.PDF",
+        "id": 11158726,
+        "joined_by_ids": [],
+        "local_path": "pdf/2025/10/07/people_v._gomez.pdf",
+        "meta": {
+          "timestamp": "2025-10-07T19:11:03.068825Z",
+          "date_created": "2025-10-07T19:05:22.904518Z"
+        },
+        "ordering_key": null,
+        "per_curiam": false,
+        "sha1": "02950f0c3e9730dc97a7f29d47db8fbfc662b4c1",
+        "snippet": "Filed 10/7/25\n                CERTIFIED FOR PUBLICATION\n\nIN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA\n\n                 SECOND APPELLATE DISTRICT\n\n                         DIVISION FOUR\n\n\n\n THE PEOPLE,                         B337826\n\n         Plaintiff and Respondent,   (Los Angeles County\n                                     Super. Ct. No. NA076108)\n         v.\n\n RICHARD JOSEPH GOMEZ,\n\n         Defendant and Appellant.\n\n\n\n      APPEAL from an order of the Superior Court of\nLos Angeles Cou",
+        "type": "combined-opinion"
+      }
+    ],
+    "panel_ids": [],
+    "panel_names": [],
+    "posture": "",
+    "procedural_history": "",
+    "scdb_id": "",
+    "sibling_ids": [
+      11158726
+    ],
+    "source": "C",
+    "status": "Published",
+    "suitNature": "",
+    "syllabus": ""
+  },
+  {
+    "absolute_url": "/opinion/10692137/move-eden-housing-v-city-of-livermore/",
+    "attorney": "",
+    "caseName": "Move Eden Housing v. City of Livermore",
+    "caseNameFull": "",
+    "citation": [],
+    "citeCount": 0,
+    "cluster_id": 10692137,
+    "court": "California Court of Appeal",
+    "court_citation_string": "Cal. Ct. App.",
+    "court_id": "calctapp",
+    "court_jurisdiction": null,
+    "dateArgued": null,
+    "dateFiled": "2025-10-07",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "A171937",
+    "docket_id": 71573724,
+    "judge": "",
+    "lexisCite": "",
+    "meta": {
+      "timestamp": "2025-10-07T19:03:44.553169Z",
+      "date_created": "2025-10-07T19:03:44.453973Z",
+      "score": {
+        "bm25": 0.9988664
+      }
+    },
+    "neutralCite": "",
+    "non_participating_judge_ids": [],
+    "opinions": [
+      {
+        "author_id": null,
+        "cites": [
+          844242,
+          1121664,
+          1426997,
+          1455211,
+          2129465,
+          2194254,
+          2244850,
+          2271130,
+          2304729,
+          2515839,
+          2617871,
+          2798654,
+          2898042,
+          3191647,
+          3289580,
+          4107680,
+          4199497,
+          6105948,
+          6106328,
+          6107648,
+          9533483,
+          9538135,
+          9541574,
+          9542426,
+          9552731
+        ],
+        "download_url": "https://www.courts.ca.gov/opinions/documents/A171937.PDF",
+        "id": 11158725,
+        "joined_by_ids": [],
+        "local_path": "pdf/2025/10/07/move_eden_housing_v._city_of_livermore.pdf",
+        "meta": {
+          "timestamp": "2025-10-07T19:29:57.787501Z",
+          "date_created": "2025-10-07T19:03:44.469060Z"
+        },
+        "ordering_key": null,
+        "per_curiam": false,
+        "sha1": "f78a2bb97f58008cfa72f05da0f82a145e10080b",
+        "snippet": "Filed 10/7/25\n                      CERTIFIED FOR PUBLICATION\n\n       IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA\n\n                        FIRST APPELLATE DISTRICT\n\n                                DIVISION FIVE\n\n\n MOVE EDEN HOUSING et al.,\n         Plaintiffs and Respondents,\n v.                                          A171937\n CITY OF LIVERMORE et al.,\n                                             (Alameda County\n         Defendants and Appellants;\n                                        ",
+        "type": "combined-opinion"
+      }
+    ],
+    "panel_ids": [],
+    "panel_names": [],
+    "posture": "",
+    "procedural_history": "",
+    "scdb_id": "",
+    "sibling_ids": [
+      11158725
+    ],
+    "source": "C",
+    "status": "Published",
+    "suitNature": "",
+    "syllabus": ""
+  }
+]

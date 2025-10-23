@@ -1,0 +1,352 @@
+[
+  {
+    "id": "scotus",
+    "name": null,
+    "full_name": "Supreme Court of the United States",
+    "jurisdiction": "F",
+    "url": "http://supremecourt.gov/"
+  },
+  {
+    "id": "ca1",
+    "name": null,
+    "full_name": "Court of Appeals for the First Circuit",
+    "jurisdiction": "F",
+    "url": "http://www.ca1.uscourts.gov/"
+  },
+  {
+    "id": "ca2",
+    "name": null,
+    "full_name": "Court of Appeals for the Second Circuit",
+    "jurisdiction": "F",
+    "url": "http://www.ca2.uscourts.gov/"
+  },
+  {
+    "id": "ca3",
+    "name": null,
+    "full_name": "Court of Appeals for the Third Circuit",
+    "jurisdiction": "F",
+    "url": "http://www.ca3.uscourts.gov/"
+  },
+  {
+    "id": "ca4",
+    "name": null,
+    "full_name": "Court of Appeals for the Fourth Circuit",
+    "jurisdiction": "F",
+    "url": "http://www.ca4.uscourts.gov/"
+  },
+  {
+    "id": "ca5",
+    "name": null,
+    "full_name": "Court of Appeals for the Fifth Circuit",
+    "jurisdiction": "F",
+    "url": "http://www.ca5.uscourts.gov/"
+  },
+  {
+    "id": "ca6",
+    "name": null,
+    "full_name": "Court of Appeals for the Sixth Circuit",
+    "jurisdiction": "F",
+    "url": "http://www.ca6.uscourts.gov/"
+  },
+  {
+    "id": "ca7",
+    "name": null,
+    "full_name": "Court of Appeals for the Seventh Circuit",
+    "jurisdiction": "F",
+    "url": "http://www.ca7.uscourts.gov/"
+  },
+  {
+    "id": "ca8",
+    "name": null,
+    "full_name": "Court of Appeals for the Eighth Circuit",
+    "jurisdiction": "F",
+    "url": "http://www.ca8.uscourts.gov/"
+  },
+  {
+    "id": "ca9",
+    "name": null,
+    "full_name": "Court of Appeals for the Ninth Circuit",
+    "jurisdiction": "F",
+    "url": "http://www.ca9.uscourts.gov/"
+  },
+  {
+    "id": "ca10",
+    "name": null,
+    "full_name": "Court of Appeals for the Tenth Circuit",
+    "jurisdiction": "F",
+    "url": "http://www.ca10.uscourts.gov/"
+  },
+  {
+    "id": "ca11",
+    "name": null,
+    "full_name": "Court of Appeals for the Eleventh Circuit",
+    "jurisdiction": "F",
+    "url": "http://www.ca11.uscourts.gov/"
+  },
+  {
+    "id": "cadc",
+    "name": null,
+    "full_name": "Court of Appeals for the D.C. Circuit",
+    "jurisdiction": "F",
+    "url": "http://www.cadc.uscourts.gov/"
+  },
+  {
+    "id": "cafc",
+    "name": null,
+    "full_name": "Court of Appeals for the Federal Circuit",
+    "jurisdiction": "F",
+    "url": "http://www.cafc.uscourts.gov/"
+  },
+  {
+    "id": "ag",
+    "name": null,
+    "full_name": "United States Attorneys General",
+    "jurisdiction": "FS",
+    "url": "https://www.justice.gov/olc/opinions-main"
+  },
+  {
+    "id": "afcca",
+    "name": null,
+    "full_name": "United States Air Force Court of Criminal Appeals",
+    "jurisdiction": "MA",
+    "url": "http://afcca.law.af.mil/"
+  },
+  {
+    "id": "usafctmilrev",
+    "name": null,
+    "full_name": "U S Air Force Court of Military Review",
+    "jurisdiction": "MA",
+    "url": ""
+  },
+  {
+    "id": "asbca",
+    "name": null,
+    "full_name": "Armed Services Board of Contract Appeals",
+    "jurisdiction": "FS",
+    "url": "http://www.asbca.mil/"
+  },
+  {
+    "id": "armfor",
+    "name": null,
+    "full_name": "Court of Appeals for the Armed Forces",
+    "jurisdiction": "MA",
+    "url": "http://www.armfor.uscourts.gov/"
+  },
+  {
+    "id": "cma",
+    "name": null,
+    "full_name": "United States Court of Military Appeals",
+    "jurisdiction": "MA",
+    "url": ""
+  },
+  {
+    "id": "acca",
+    "name": null,
+    "full_name": "Army Court of Criminal Appeals",
+    "jurisdiction": "MA",
+    "url": "https://www.jagcnet.army.mil/ACCA"
+  },
+  {
+    "id": "usarmymilrev",
+    "name": null,
+    "full_name": "U.S. Army Court of Military Review",
+    "jurisdiction": "MA",
+    "url": ""
+  },
+  {
+    "id": "uscgcoca",
+    "name": null,
+    "full_name": "U S Coast Guard Court of Criminal Appeals",
+    "jurisdiction": "MA",
+    "url": ""
+  },
+  {
+    "id": "cgcomilrev",
+    "name": null,
+    "full_name": "U S Coast Guard Court of Military Review",
+    "jurisdiction": "MA",
+    "url": ""
+  },
+  {
+    "id": "cc",
+    "name": null,
+    "full_name": "United States Court of Claims",
+    "jurisdiction": "FS",
+    "url": "http://www.fjc.gov/history/home.nsf/page/courts_special_coc.html"
+  },
+  {
+    "id": "uscfc",
+    "name": null,
+    "full_name": "United States Court of Federal Claims",
+    "jurisdiction": "FS",
+    "url": "http://www.uscfc.uscourts.gov/"
+  },
+  {
+    "id": "com",
+    "name": null,
+    "full_name": "Commerce Court",
+    "jurisdiction": "FS",
+    "url": "http://www.fjc.gov/history/home.nsf/page/courts_special_com.html"
+  },
+  {
+    "id": "ccpa",
+    "name": null,
+    "full_name": "Court of Customs and Patent Appeals",
+    "jurisdiction": "FS",
+    "url": "http://www.cafc.uscourts.gov/"
+  },
+  {
+    "id": "cusc",
+    "name": null,
+    "full_name": "United States Customs Court",
+    "jurisdiction": "FS",
+    "url": "http://www.fjc.gov/history/home.nsf/page/courts_special_cc_bib.html"
+  },
+  {
+    "id": "tax",
+    "name": null,
+    "full_name": "United States Tax Court",
+    "jurisdiction": "FS",
+    "url": "http://www.ustaxcourt.gov/"
+  },
+  {
+    "id": "bta",
+    "name": null,
+    "full_name": "United States Board of Tax Appeals",
+    "jurisdiction": "FS",
+    "url": ""
+  },
+  {
+    "id": "bia",
+    "name": null,
+    "full_name": "Board of Immigration Appeals",
+    "jurisdiction": "FS",
+    "url": "https://www.justice.gov/eoir/ag-bia-decisions"
+  },
+  {
+    "id": "olc",
+    "name": null,
+    "full_name": "Department of Justice Office of Legal Counsel",
+    "jurisdiction": "FS",
+    "url": "https://www.justice.gov/olc"
+  },
+  {
+    "id": "padeptjust",
+    "name": null,
+    "full_name": "Pennsylvania Department of Justice",
+    "jurisdiction": "FS",
+    "url": ""
+  },
+  {
+    "id": "philadeptjust",
+    "name": null,
+    "full_name": "Philadelphia Department of Justice",
+    "jurisdiction": "FS",
+    "url": ""
+  },
+  {
+    "id": "deptinterior",
+    "name": null,
+    "full_name": "Department of Interior",
+    "jurisdiction": "FS",
+    "url": ""
+  },
+  {
+    "id": "uslandoffice",
+    "name": null,
+    "full_name": "United States Land Office",
+    "jurisdiction": "FS",
+    "url": ""
+  },
+  {
+    "id": "ussurveyor",
+    "name": null,
+    "full_name": "United States Surveyor",
+    "jurisdiction": "FS",
+    "url": ""
+  },
+  {
+    "id": "mc",
+    "name": null,
+    "full_name": "United States Court of Military Commission Review",
+    "jurisdiction": "MA",
+    "url": "http://www.mc.mil/cases/USCourtofMilitaryCommissionReview.aspx"
+  },
+  {
+    "id": "mspb",
+    "name": null,
+    "full_name": "Merit Systems Protection Board",
+    "jurisdiction": "FS",
+    "url": "http://www.mspb.gov/"
+  },
+  {
+    "id": "nmcca",
+    "name": null,
+    "full_name": "Navy-Marine Corps Court of Criminal Appeals",
+    "jurisdiction": "MA",
+    "url": "http://www.jag.navy.mil/"
+  },
+  {
+    "id": "usnmcmilrev",
+    "name": null,
+    "full_name": "U.S. Navy-Marine Corps Court of Military Review",
+    "jurisdiction": "MA",
+    "url": ""
+  },
+  {
+    "id": "cavc",
+    "name": null,
+    "full_name": "United States Court of Appeals for Veterans Claims",
+    "jurisdiction": "FS",
+    "url": "http://www.uscourts.cavc.gov/"
+  },
+  {
+    "id": "bva",
+    "name": null,
+    "full_name": "Board of Veterans' Appeals",
+    "jurisdiction": "FS",
+    "url": "http://www.index.va.gov/search/va/bva_search.jsp"
+  },
+  {
+    "id": "eca",
+    "name": null,
+    "full_name": "Emergency Court of Appeals",
+    "jurisdiction": "FS",
+    "url": "https://secure.wikimedia.org/wikipedia/en/wiki/Emergency_Court_of_Appeals"
+  },
+  {
+    "id": "tecoa",
+    "name": null,
+    "full_name": "Temporary Emergency Court of Appeals",
+    "jurisdiction": "FS",
+    "url": "http://www.fjc.gov/history/home.nsf/page/courts_special_tecoa.html"
+  },
+  {
+    "id": "fiscr",
+    "name": null,
+    "full_name": "Foreign Intelligence Surveillance Court of Review",
+    "jurisdiction": "FS",
+    "url": "http://www.fisc.uscourts.gov/"
+  },
+  {
+    "id": "fisc",
+    "name": null,
+    "full_name": "Foreign Intelligence Surveillance Court",
+    "jurisdiction": "FS",
+    "url": "http://www.fisc.uscourts.gov/"
+  },
+  {
+    "id": "reglrailreorgct",
+    "name": null,
+    "full_name": "Special Court under the Regional Rail Reorganization Act",
+    "jurisdiction": "FS",
+    "url": "http://www.uscourts.gov/news/TheThirdBranch/96-11-01/Special_Railroad_Court_to_Close_Doors.aspx"
+  },
+  {
+    "id": "cit",
+    "name": null,
+    "full_name": "United States Court of International Trade",
+    "jurisdiction": "FS",
+    "url": "http://www.cit.uscourts.gov/"
+  }
+]
